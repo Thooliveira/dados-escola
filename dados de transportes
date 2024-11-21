@@ -1,8 +1,9 @@
 {
-    "Onibus": 3049,
-    "Taxi": 2491,
-    "Navio": 2000,
+    "Carro": 3049,
+    "Trem": 2491,
     "Avião": 2000,
-    "Trem": 1562,
-    "Carro":1336
+    "Ônibus": 2000,
+    "Navio": 1562,
+    "Taxi": 1336
+
 }
